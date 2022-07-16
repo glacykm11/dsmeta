@@ -56,7 +56,7 @@ public class Sale {
 		this.deals = deals;
 	}
 
-	public Double getAmout() {
+	public Double getAmount() {
 		return amount;
 	}
 
